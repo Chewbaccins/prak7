@@ -7,9 +7,9 @@
 #include <complex>
 #include <cmath>
 using namespace std;
-#include "declares.h"
+#include "matrix_vect.h"
 #include "step_alg.h"
-#include "matrix_vector.h"
+#include "Ro_H.h"
 
 int commRank, commSize;
 Vector <int> basis;
