@@ -1,5 +1,7 @@
 # 0 task PDGEMM/PZGEMM
 
+423 Тыркалов Евгений, Ни Юлия.
+
 ###### compile
 make matrix_multiply
 
